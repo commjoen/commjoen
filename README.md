@@ -8,11 +8,6 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 TBA
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
-### Some stats
-
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
-
-
 ### Public projects I am happy to have contributed to
 
 <a href="https://github.com/OWASP/owasp-masvs">
@@ -32,7 +27,9 @@ Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscri
 </a>
 <br/>
 
+### Some stats
 
+![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
 
 <!--
 **commjoen/commjoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
