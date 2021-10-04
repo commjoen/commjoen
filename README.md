@@ -1,9 +1,6 @@
 ### Hi there 👋
-### I am Jeroen Willemsen
-#### A jack of all trades (info/cybersecurity, Java, Golang, Javascript, Terraform, etc.)
 
-
-Hi, I am Jeroen Willemsen. I love to share knowledge through talks, blogs, projects at github, and trainings. Want to reach out? Connect to me through Twitter, LinkedIn, (OWASP) Slack, or Keybase.
+Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to work at a lot of thinkgs, but as a parent and full-timne Xebian. I only have limited time ;-). I love to share knowledge through talks, blogs, projects at github, and trainings. Want to reach out? Connect to me through Twitter, LinkedIn, (OWASP) Slack, or Keybase.
 
 
 ### Some stats
