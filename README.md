@@ -8,8 +8,8 @@ Hi, I am Jeroen Willemsen. I love to share knowledge through talks, blogs, proje
 
 ### Some stats
 
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark)
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark)
+![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&count_private=true)
+![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&count_private=true)
 
 #### Public projects I am happy to have contributed to
 
