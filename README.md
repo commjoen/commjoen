@@ -13,18 +13,20 @@ Hi, I am Jeroen Willemsen. I love to share knowledge through talks, blogs, proje
 
 #### Public projects I am happy to have contributed to
 
-<a href="https://github.com/WebGoat/WebGoat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WebGoat&repo=WebGoat&theme=dark" />
-</a>
-<a href="https://github.com/juice-shop/juice-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juice-shop&repo=juice-shop&theme=dark" />
-</a>
-<a href="https://github.com/OWASP/owasp-mstg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mstg&theme=dark" />
-</a>
+
 <a href="https://github.com/OWASP/owasp-masvs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-masvs&theme=dark" />
 </a>
+<a href="https://github.com/OWASP/owasp-mstg">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mstg&theme=dark" />
+</a><br/>
+<a href="https://github.com/juice-shop/juice-shop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juice-shop&repo=juice-shop&theme=dark" />
+</a>
+<a href="https://github.com/WebGoat/WebGoat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WebGoat&repo=WebGoat&theme=dark" />
+</a>
+<br/>
 <a href="https://github.com/OWASP/CheatSheetSeries">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries&theme=dark" />
 </a>
