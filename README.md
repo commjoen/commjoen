@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I am Jeroen Willemsen
+### A jack of all trades (info/cybersecurity, Java, Golang, Javascript, Terraform, etc.)
+
+
+
 
 <!--
 **commjoen/commjoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
