@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) ![](https://komarev.com/ghpvc/?username=commjoen)
+[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) ![](https://komarev.com/ghpvc/?username=commjoen) [![LinkedIn]https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue](https://www.linkedin.com/in/jeroen-willemsen/) 
 
 Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to work at a lot of thinkgs, but as a parent and full-timne Xebian. I only have limited time ;-). I love to share knowledge through talks, blogs, projects at github, and trainings. Want to reach out? Connect to me through Twitter, LinkedIn, (OWASP) Slack, or Keybase.
 
