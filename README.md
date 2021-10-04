@@ -14,7 +14,23 @@ Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscri
 
 ### Public projects I am happy to have contributed to
 Though I just did a few commits, the real heroes are the maintainers!
-
+<table>
+<!--   <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Description</b></td>
+      <td><b>📚 Stars</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td> </td>
+      <td>WebGoat is a deliberately insecure application </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+ -->
 <a href="https://github.com/OWASP/owasp-masvs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-masvs&theme=dark" />
 </a>
