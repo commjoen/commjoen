@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/) [![OWASP Slack](https://img.shields.io/badge/Owasp-Slack-Black)](https://owasp.slack.com/teams/U2E22UQ76) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists)
+[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/) [![OWASP Slack](https://img.shields.io/badge/Owasp-Slack-Black)](https://owasp.slack.com/teams/U2E22UQ76) [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) 
 ![](https://komarev.com/ghpvc/?username=commjoen) 
 #TODO: YOUTUBE
 #TODO: KEYBASE
