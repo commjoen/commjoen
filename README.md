@@ -19,7 +19,8 @@ Hi, I am Jeroen Willemsen. I love to share knowledge through talks, blogs, proje
 </a>
 <a href="https://github.com/OWASP/owasp-mstg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mstg&theme=dark" />
-</a><br/>
+</a>
+<br/><br/>
 <a href="https://github.com/juice-shop/juice-shop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juice-shop&repo=juice-shop&theme=dark" />
 </a>
