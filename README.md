@@ -15,23 +15,37 @@ Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscri
 ### Public projects I am happy to have contributed to
 Though I just did a few commits, the real heroes are the maintainers!
 <table>
-<!--   <thead align="center">
+  <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Description</b></td>
       <td><b>📚 Stars</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td> </td>
-      <td>WebGoat is a deliberately insecure application </td>
-      <td> </td>
+        <td width"70%"><a href="https://github.com/WebGoat/WebGoat">WebGoat</a> <p class="description">WebGoat is a deliberately insecure application </p></td>
+      <td> <img align="center" src="https://img.shields.io/github/stars/WebGoat/WebGoat?label=stars"/></td>
+    </tr>
+    <tr>
+        <td width"70%"><a href="https://github.com/juice-shop/juice-shop">Juice Shop</a> <p class="description">OWASP Juice Shop: Probably the most modern and sophisticated insecure web application</p></td>
+      <td> <img align="center" src="https://img.shields.io/github/stars/juice-shop/juice-shop?label=stars"/></td>
+    </tr>
+    <tr>
+        <td width"70%"><a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a> <p class="description">The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.</p></td>
+      <td> <img align="center" src="https://img.shields.io/github/stars/OWASP/owasp-mstg?label=stars"/></td>
+    </tr>
+    <tr>
+        <td width"70%"><a href="https://github.com/OWASP/owasp-MASVS">OWASP Mobile Application Security Verification Standard</a> <p class="description">The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.</p></td>
+      <td> <img align="center" src="https://img.shields.io/github/stars/OWASP/owasp-masvs?label=stars"/></td>
+    </tr>
+    <tr>
+        <td width"70%"><a href="https://github.com/OWASP/CheatSheetSeries">OWASP Cheat Sheet Series</a> <p class="description">The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</p></td>
+      <td> <img align="center" src="https://img.shields.io/github/stars/OWASP/owasp-masvs?label=stars"/></td>
     </tr>
   </tbody>
 </table>
- -->
-<a href="https://github.com/OWASP/owasp-masvs">
+
+<!-- <a href="https://github.com/OWASP/owasp-masvs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-masvs&theme=dark" />
 </a>
 <a href="https://github.com/juice-shop/juice-shop">
@@ -46,7 +60,7 @@ Though I just did a few commits, the real heroes are the maintainers!
 <a href="https://github.com/WebGoat/WebGoat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WebGoat&repo=WebGoat&theme=dark" />
 </a>
-<br/>
+<br/> -->
 
 ### Some stats
 
