@@ -10,8 +10,8 @@ Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscri
 
 ### Some stats
 
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
+
 
 ### Public projects I am happy to have contributed to
 
