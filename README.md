@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) ![](https://komarev.com/ghpvc/?username=commjoen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/) 
-#TODO: https://owasp.slack.com/teams/U2E22UQ76
+[![Twitter Follow](https://img.shields.io/twitter/follow/commjoenie.svg?style=social&label=Follow)](https://twitter.com/commjoenie) ![](https://komarev.com/ghpvc/?username=commjoen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/) [![OWASP Slack](https://img.shields.io/badge/Owasp-Slack-Black)](https://owasp.slack.com/teams/U2E22UQ76)
+#TODO: 
 #TODO: YOUTUBE
 #TODO: KEYBASE
 
