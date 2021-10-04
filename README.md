@@ -3,6 +3,7 @@
 
 Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to work at a lot of thinkgs, but as a parent and full-timne Xebian. I only have limited time ;-). I love to share knowledge through talks, blogs, projects at github, and trainings. Want to reach out? Connect to me through Twitter, LinkedIn, (OWASP) Slack, or Keybase.
 
+
 ### Some stats
 
 ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
