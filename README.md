@@ -6,8 +6,9 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-- [Club Cloud: Securing Your Secrets in the Cloud](https://clubcloud.world/session/securing-your-secrets-in-the-cloud/)
-- Our Secrets Journey from Code to Vault (OWASP Meetup, TBA)
+
+- [OWASP Dutch Chapter meetup: Our Secrets Journey from Code to Vault, October 28th, 2021](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/281228990/)
+- [Club Cloud: Securing Your Secrets in the Cloud, November 2nd 2021](https://clubcloud.world/session/securing-your-secrets-in-the-cloud/)
 
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
