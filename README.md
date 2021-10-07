@@ -43,29 +43,9 @@ Though I just did a few commits, the real heroes are the maintainers!
         <td width="80%"><a href="https://github.com/OWASP/CheatSheetSeries">OWASP Cheat Sheet Series</a> <p><sub>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/OWASP/CheatSheetSeries"> <img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/OWASP/CheatSheetSeries"/></a></td>
     </tr>
-    <tr>
-        <td width="80%"><a href="https://github.com/dev-sec/cis-docker-benchmark">CIS Docker Benchmark - InSpec Profile</a> <p><sub>CIS Docker Benchmark - InSpec Profile.</sub></p></td>
-      <td width="20%" align="center"> <a href="https://github.com/dev-sec/cis-docker-benchmark"> <img src="https://img.shields.io/github/stars/dev-sec/cis-docker-benchmark?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/dev-sec/cis-docker-benchmark"/></a></td>
-    </tr>
-    https://github.com/dev-sec/cis-docker-benchmark
   </tbody>
 </table>
 
 ### Some stats
 
 ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
-
-<!--
-**commjoen/commjoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
