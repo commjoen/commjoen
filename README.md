@@ -43,25 +43,13 @@ Though I just did a few commits, the real heroes are the maintainers!
         <td width="80%"><a href="https://github.com/OWASP/CheatSheetSeries">OWASP Cheat Sheet Series</a> <p><sub>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/OWASP/CheatSheetSeries"> <img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/OWASP/CheatSheetSeries"/></a></td>
     </tr>
+    <tr>
+        <td width="80%"><a href="https://github.com/dev-sec/cis-docker-benchmark">CIS Docker Benchmark - InSpec Profile</a> <p><sub>CIS Docker Benchmark - InSpec Profile.</sub></p></td>
+      <td width="20%" align="center"> <a href="https://github.com/dev-sec/cis-docker-benchmark"> <img src="https://img.shields.io/github/stars/dev-sec/cis-docker-benchmark?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/dev-sec/cis-docker-benchmark"/></a></td>
+    </tr>
+    https://github.com/dev-sec/cis-docker-benchmark
   </tbody>
 </table>
-
-<!-- <a href="https://github.com/OWASP/owasp-masvs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-masvs&theme=dark" />
-</a>
-<a href="https://github.com/juice-shop/juice-shop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=juice-shop&repo=juice-shop&theme=dark" />
-</a>
-<a href="https://github.com/OWASP/owasp-mstg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=owasp-mstg&theme=dark" />
-</a>
-<a href="https://github.com/OWASP/CheatSheetSeries">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP&repo=CheatSheetSeries&theme=dark" />
-</a>
-<a href="https://github.com/WebGoat/WebGoat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WebGoat&repo=WebGoat&theme=dark" />
-</a>
-<br/> -->
 
 ### Some stats
 
