@@ -6,8 +6,6 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-
-- [OWASP Dutch Chapter meetup: Our Secrets Journey from Code to Vault, October 28th, 2021](https://www.meetup.com/OWASP-Chapter-Netherlands-Meetup/events/281228990/)
 - [Club Cloud: Securing Your Secrets in the Cloud, November 2nd 2021](https://clubcloud.world/session/securing-your-secrets-in-the-cloud/)
 
 
