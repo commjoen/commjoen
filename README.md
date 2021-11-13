@@ -3,15 +3,14 @@
 
 Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to work at a lot of things, but as a husband & parent and full-time Xebian I only have limited time ;-). I love to share knowledge through talks, blogs, projects at github, and trainings. Want to reach out? Connect to me through Twitter, LinkedIn, (OWASP) Slack, or Keybase.
 
-
 ### Upcoming talks
 
-- TBA
-
+- [Conf42: DevSecOps 2021 - Secrets-management: challenges from code to cloud](https://www.conf42.com/DevSecOps_2021_Jeroen_Willemsen_secretsmanagement)
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
 ### Public projects I am happy to have contributed to
+
 Though I just did a few commits, the real heroes are the maintainers!
 <table>
   <thead align="center">
