@@ -21,23 +21,23 @@ Though I just did a few commits, the real heroes are the maintainers!
   </thead>
   <tbody>
     <tr>
-        <td width="70%"><a href="https://github.com/WebGoat/WebGoat">WebGoat</a> <p><sub>WebGoat is a deliberately insecure application </sub></td>
+      <td width="70%"><a href="https://github.com/WebGoat/WebGoat">WebGoat</a> <p><sub>WebGoat is a deliberately insecure application </sub></td>
       <td width=25px" align="center"> <a href="https://github.com/WebGoat/WebGoat"> <img src="https://img.shields.io/github/stars/WebGoat/WebGoat?label=stars"/>  <br/> <img src="https://img.shields.io/github/issues-raw/WebGoat/WebGoat"/></a></td>
     </tr>
     <tr>
-        <td width="80%"><a href="https://github.com/juice-shop/juice-shop">Juice Shop</a> <p><sub>OWASP Juice Shop: Probably the most modern and sophisticated insecure web application</sub></p></td>
+      <td width="80%"><a href="https://github.com/juice-shop/juice-shop">Juice Shop</a> <p><sub>OWASP Juice Shop: Probably the most modern and sophisticated insecure web application</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/juice-shop/juice-shop"> <img src="https://img.shields.io/github/stars/juice-shop/juice-shop?label=stars"/>  <br/>  <img src="https://img.shields.io/github/issues-raw/juice-shop/juice-shop"/></a></td>
     </tr>
     <tr>
-        <td width="80%"><a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a> <p><sub>The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.</sub></p></td>
+      <td width="80%"><a href="https://github.com/OWASP/owasp-mstg">OWASP Mobile Security Testing Guide</a> <p><sub>The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security development, testing and reverse engineering.</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/OWASP/owasp-mstg"> <img src="https://img.shields.io/github/stars/OWASP/owasp-mstg?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/OWASP/owasp-mstg"/></a></td>
     </tr>
     <tr>
-        <td width="80%"><a href="https://github.com/OWASP/owasp-MASVS">OWASP Mobile Application Security Verification Standard</a> <p><sub>The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.</sub></p></td>
+      <td width="80%"><a href="https://github.com/OWASP/owasp-MASVS">OWASP Mobile Application Security Verification Standard</a> <p><sub>The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/OWASP/owasp-MASVS">  <img src="https://img.shields.io/github/stars/OWASP/owasp-masvs?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/OWASP/owasp-MASVS"/></a></td>
     </tr>
     <tr>
-        <td width="80%"><a href="https://github.com/OWASP/CheatSheetSeries">OWASP Cheat Sheet Series</a> <p><sub>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</sub></p></td>
+      <td width="80%"><a href="https://github.com/OWASP/CheatSheetSeries">OWASP Cheat Sheet Series</a> <p><sub>The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.</sub></p></td>
       <td width="20%" align="center"> <a href="https://github.com/OWASP/CheatSheetSeries"> <img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?label=stars"/> <br/> <img src="https://img.shields.io/github/issues-raw/OWASP/CheatSheetSeries"/></a></td>
     </tr>
   </tbody>
