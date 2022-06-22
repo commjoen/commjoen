@@ -5,7 +5,7 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-- [OWASP 2022 Virtual Appsec Europe 6-10th of June](https://whova.com/web/GKSmlhCK%2FWzBY2c8qqJ%2Bp7kNcnjsUQAQJ%2ByBsjLrbOo%3D/)
+TBA
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
