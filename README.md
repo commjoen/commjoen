@@ -6,7 +6,7 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 ### Upcoming talks
 
 - [DevSecOps Days 2022 Washington DC (Virtual): Learn How To (Not) Use Secrets With OWASP Wrong Secrets!](https://resources.sei.cmu.edu/news-events/events/devsecops/program.cfm) 
-- OWASP Hamburg Stammtich
+- AlldayDevops
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
