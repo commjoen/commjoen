@@ -5,7 +5,8 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-- None.
+- TBA @ Cyberwisecon 2024
+- ...TBA
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
