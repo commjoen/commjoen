@@ -5,8 +5,6 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-- Open Security Summit Jan 16, 2024: "OWASP WrongSecrets: a journey into secret management failures"
-- Open Security Summit Jan 17, 2024: "OWASP WrongSecrets: define the future challenges together"
 - Cyberwisecon May 20, 2024 on "OWASP WrongSecrets: How we keep on growing our open source project"
 - TBA
 
