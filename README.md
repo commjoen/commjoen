@@ -5,7 +5,7 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 ### Upcoming talks
 
-- AllDayDevops: [OWASP WrongSecrets: How We Keep on Growing Our Open Source Project](https://event.alldaydevops.com/event/registration/websitePage:04030226-24b8-49ac-9c30-5671087b28ec?_hsenc=p2ANqtz--e4sSEg592grSuFfYoUtredu-wZO3JSOv0gNPqZrDqC_9FDRZz9ZDTqfNhqR6ogaB8tWzdzxhN9oPnvhPZmMZxt8emlPcebbGTEiQ4pxWTUocHOMY&_hsmi=323185854&utm_campaign=2024ADDO&utm_medium=email&utm_source=hubspot&session=f7080cbc-c775-4c3d-8c6b-c6cca2158a74)
+- OWASP Project showcase on Wrongsecrets
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
