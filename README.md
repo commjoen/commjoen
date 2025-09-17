@@ -9,6 +9,24 @@ Hi, I am Jeroen Willemsen. As a typical security jack-of-all-trades I love to wo
 
 Previous talks: check [![Youtube](https://img.shields.io/youtube/channel/subscribers/UCCMyMgK-Wr6xhStotRyiY8g?label=My%20talks%20and%20podcasts&style=social)](https://www.youtube.com/user/joenotubby/playlists) or projects at [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/jeroen-willemsen/).
 
+### OWASP WrongSecrets
+
+My favorite project is OWASP WrongSecrets as it is the first Secrets Management-focused vulnerable/p0wnable app! It can be used as a stand-alone game, as part of security trainings, awareness demos, as a test environment for secret detection tools, and bad practice detection tooling. It even has a supporting CTF platform to play the game in a larger group. Here are some links:
+
+- [OWASP WrongSecrets main repo](https://github.com/OWASP/wrongsecrets)
+- [OWASP WrongSecrets Binaries](https://github.com/OWASP/wrongsecrets-binaries)
+- [OWASP WrongSecrets CTF Party repo](https://github.com/OWASP/wrongsecrets-ctf-party)
+- [OWASP WrongSecrets Project Page](https://owasp.org/www-project-wrongsecrets/)
+- [WrongSecrets Heroku hosted Demo](https://www.wrongsecrets.com/)
+
+### AI Generated games
+
+As a father, I wanted to create some fun games for my children, here are some AI generated projects:
+
+- [Albert Heijn self-scan simulator (Dutch)](https://github.com/commjoen/seflscanfun)
+- [2d scrolling platform game](https://github.com/commjoen/generated-game-experiment)
+- [3d underwater game](https://github.com/commjoen/3dgame)
+
 ### Public projects I am happy to have contributed to
 
 Though I just did a few commits, the real heroes are the maintainers!
