@@ -26,6 +26,7 @@ As a father, I wanted to create some fun games for my children, here are some AI
 - [Albert Heijn self-scan simulator (Dutch)](https://github.com/commjoen/seflscanfun)
 - [2d scrolling platform game](https://github.com/commjoen/generated-game-experiment)
 - [3d underwater game](https://github.com/commjoen/3dgame)
+- [multiplier](https://github.com/commjoen/Multiplier)
 
 ### Public projects I am happy to have contributed to
 
