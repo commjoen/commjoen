@@ -27,6 +27,7 @@ As a father, I wanted to create some fun games for my children, here are some AI
 - [2d scrolling platform game](https://github.com/commjoen/generated-game-experiment)
 - [3d underwater game](https://github.com/commjoen/3dgame)
 - [multiplier](https://github.com/commjoen/Multiplier)
+- [speller](https://github.com/commjoen/Speller)
 
 ### Public projects I am happy to have contributed to
 
