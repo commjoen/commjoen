@@ -28,6 +28,7 @@ As a father, I wanted to create some fun games for my children, here are some AI
 - [3d underwater game](https://github.com/commjoen/3dgame)
 - [multiplier](https://github.com/commjoen/Multiplier)
 - [speller](https://github.com/commjoen/Speller)
+- [parsergame](https://github.com/commjoen/parsergame)
 
 ### Public projects I am happy to have contributed to
 
