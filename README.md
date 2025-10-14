@@ -29,6 +29,7 @@ As a father, I wanted to create some fun games for my children, here are some AI
 - [multiplier](https://github.com/commjoen/Multiplier)
 - [speller](https://github.com/commjoen/Speller)
 - [parsergame](https://github.com/commjoen/parsergame)
+- [topotest](https://github.com/commjoen/Topotest)
 
 ### Public projects I am happy to have contributed to
 
