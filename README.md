@@ -65,7 +65,3 @@ Though I just did a few commits, the real heroes are the maintainers!
     </tr>
   </tbody>
 </table>
-
-### Some stats
-
-![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api?username=commjoen&show_icons=true&theme=dark&include_all_commits=true&count_private=true) ![Jeroen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=commjoen&layout=compact&theme=dark&include_all_commits=true&count_private=true)
